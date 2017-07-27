@@ -11,7 +11,4 @@
 ## 项目名称
 自动化大数据舆情分析工作流的构建
 
-
-
-python run.py 2017-7-25 GS8
-python run.py 2017-6-1 CS95
+for test
